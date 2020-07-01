@@ -1,0 +1,7 @@
+main: com.dfsek.testgenerator.Main
+name: TestGenerator
+version: 1.0.0
+author: dfsek
+description: Generator to test SPIGOT-5880
+load: startup
+api-version: 1.16
